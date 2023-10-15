@@ -2,12 +2,10 @@ numpy
 pandas
 matplotlib
 seaborn
-sklearn
+scikit-learn
 scipy
 datetime
-mpl_toolkits
 yellowbrick
 mlxtend
-pickle
 streamlit
 openpyxl
